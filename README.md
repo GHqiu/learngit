@@ -1,1 +1,2 @@
 # learngit
+modify reademe
